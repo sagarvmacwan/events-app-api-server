@@ -1,6 +1,6 @@
 {
   "name": "cnd-sample-api-server-step-1",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "start": "node ./src/server.js",
